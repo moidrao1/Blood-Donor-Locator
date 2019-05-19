@@ -234,7 +234,8 @@ if($result !=0){
     });
     </script>
 
-	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDijAq9kF6c8MfSeLgow3EXh1AKufKJWvg&sensor=false"></script> 
+	// Used Goole map api here in order to complete this open source project
+	<script type="text/javascript" src="// ENTER GOOGLE MAP API HERE"></script> 
 <script type="text/javascript"> 
  var geocoder = new google.maps.Geocoder();
  
