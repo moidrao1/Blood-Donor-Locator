@@ -1,0 +1,86 @@
+/*#my_custom_navbar{
+	background-color: rgba(8, 199, 186, 1);	
+}*/
+
+
+.navbar-custom{
+	background-color: rgba(8, 199, 186, 1);
+    	-webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.5);
+    	-moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.5);
+    	box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.5);		
+}
+
+.navbar-brand{
+	color: white
+}
+
+.navbar-nav li a{
+color: white;
+}
+
+.navbar-nav li a:focus,
+.navbar-nav li a:hover{
+color: black;
+}
+
+.dropdown-menu li a{
+	color:black;
+}
+
+
+/*
+CSS for patients.htm
+*/
+
+/*
+CSS for add patient.htm
+*/
+
+#signup-form{
+
+}
+
+
+.button-custom{
+background-color: rgba(8, 199, 186, 1);
+color: white;
+}
+
+.container-main{
+	padding-top: 80px;
+}
+
+/*
+CSS for profile patient.htm
+*/
+
+.panel-info{
+}
+
+/*
+CSS for login
+*/
+
+
+#login-body{
+	background-color: #f9f9f9 !important;
+}
+
+.well.login-box {
+    /*width:400px; */
+    border:#d1d1d1 solid 1px;
+    margin:0 auto;
+    margin-top:30px;
+}
+
+.well{
+    background-color:#fff!important;
+    border-radius:0!important;
+    border:black solid 1px;
+}
+.well.login-box legend {
+  font-size:26px;
+  text-align:center;
+  font-weight:300;
+}
+
